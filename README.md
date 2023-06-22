@@ -1,2 +1,1 @@
-# csaprojects
-projects in AP CSA
+# projects in AP CSA
